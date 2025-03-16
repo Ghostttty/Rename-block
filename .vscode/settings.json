@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "init.h": "c",
+        "random": "cpp",
+        "typeinfo": "c"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/src/linux-headers-6.8.0-52/include/"
+            ],
+            "defines": [],
+            "intelliSenseMode": "linux-gcc-x64",
+            "cStandard": "c17",
+            "cppStandard": "c++23",
+            "compilerPath": "/usr/bin/gcc-14"
+        }
+    ],
+    "version": 4
+}
